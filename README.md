@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 Teksts toegevoegd
 Online tekst toegevoegd
 Aanpassing 2
+Aanpassing 3
